@@ -168,3 +168,7 @@ body{
     background-image:url(/CSS/profile/background.jpg);
     
 }
+form{
+    margin-top: 100px;
+    margin-left: 180px;
+}
