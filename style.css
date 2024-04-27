@@ -259,8 +259,6 @@ form{
     color: black;
     border:2px solid black
 }
-.footer{
-
-    margin left: 50px;
-
+footer{
+    margin-top: 10px;
 }
