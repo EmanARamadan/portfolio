@@ -77,7 +77,7 @@ span{
 
 .home{
     width: 100%
-    min-content: 100vh;
+    min-content 100vh;
     background: rgb(241, 241 241);
     display: flex;
     align-items: :center;
